@@ -1,0 +1,1 @@
+2025-05-06 17:15:00.090  INFO 4116 --- [http-nio-8080-exec-10] i.m.u.m.controller.FindOutBiosdkRequest  : Response /extract-template ==> {"version":"1.0","responsetime":"2025-05-06T11:44:58.919Z","response":{"statusCode":404,"statusMessage":"Biometrics not found in CBEFF","response":null},"errors":[]}
